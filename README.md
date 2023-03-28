@@ -1,4 +1,4 @@
-# Task: Automated Deployment of Virtual Machines onAWS
+# Task: Automated Deployment of Virtual Machines on AWS
 
 ## Overview: 
 
